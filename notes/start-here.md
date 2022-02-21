@@ -4,4 +4,4 @@ This folder contains testing notes. If you would like to learn some basic defini
 
 ## Table of Contents
 
-1. [Software Development Life Cycle (SDLC)](../master/sdlc.md)
+1. [Software Development Life Cycle (SDLC)](../master/notes/sdlc.md)
