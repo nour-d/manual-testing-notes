@@ -1,6 +1,8 @@
 # Manual Testing Project
 
-This project seeks to teach aspiring QA engineers how to test web applications. To learn about the manual software testing process, we will be using the following Django application: https://django-job-board.herokuapp.com/
+This project seeks to teach aspiring QA engineers how to test web applications. To learn about the manual software testing process, we will be designing test cases for the following registration page:
+
+![Registration Page](../master/images/registration-page.png "Registration Page")
 
 ## Table of Contents
 
