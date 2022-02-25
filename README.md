@@ -2,7 +2,7 @@
 
 This project seeks to teach aspiring QA engineers how to test web applications. To learn about the manual software testing process, we will be designing test cases for the following registration page:
 
-![Registration Page](../master/images/registration-page.png "Registration Page")
+![Registration Page](https://raw.githubusercontent.com/nour-d/manual-testing-practice/main/images/registration-page.png "Registration Page")
 
 ## Table of Contents
 
