@@ -11,4 +11,4 @@ For example, you have an email application. *Functional testing* may involve che
 3. Security Testing
 4. Compatibility Testing
 
-<- [Return to Table of Contents](../../master/notes/start-here.md)
+<- [Return to Table of Contents](https://github.com/nour-d/manual-testing-practice/blob/main/notes/start-here.md)

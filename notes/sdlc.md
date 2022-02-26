@@ -13,4 +13,4 @@ A *linear* approach to the SDLC. The product is released only after the earlier 
 A *repetitive* approach to the SDLC. The product is released in cycles, with client feedback getting incorporated with each new release. As a result, Agile is more flexible than Waterfall.
 
 
-<- [Return to Table of Contents](../../master/notes/start-here.md)
+<- [Return to Table of Contents](https://github.com/nour-d/manual-testing-practice/blob/main/notes/start-here.md)

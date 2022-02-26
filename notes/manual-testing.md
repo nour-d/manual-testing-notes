@@ -1,4 +1,5 @@
 # Manual Testing
 
 
-<- [Return to Table of Contents](../../master/notes/start-here.md)
+
+<- [Return to Table of Contents](https://github.com/nour-d/manual-testing-practice/blob/main/notes/start-here.md)
