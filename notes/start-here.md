@@ -5,7 +5,7 @@ This folder contains testing notes. If you would like to learn some basic defini
 ## Table of Contents
 
 1. [Software Development Life Cycle (SDLC)](../notes/sdlc.md)
-2. [Software Testing Life Cycle](../notes/stlc.md)
+2. [Software Testing Life Cycle (STLC)](../notes/stlc.md)
 3. [Functional Testing](../notes/functional.md)
 4. [Non-Functional Testing](../notes/nonfunctional.md)
 5. [Manual Testing](../notes/manual-testing.md)
