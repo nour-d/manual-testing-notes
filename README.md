@@ -1,4 +1,4 @@
-# Manual Testing Project
+# Manual Testing
 
 This project seeks to teach aspiring QA engineers how to test web applications. To learn about the manual software testing process, we will be designing test cases for the following registration page:
 
