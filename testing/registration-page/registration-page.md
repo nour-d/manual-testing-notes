@@ -40,4 +40,6 @@ First, let's plan what we will test:
 10. Confirm that the website does not contain small text.
 11. Confirm that all elements on the website have a color contrast ratio of at least 4.5:1.
 
-[Click here to view the Test Case Document](../notes/sdlc.md)
+[Click here to view the Test Case Document](../registration-page/table.md)
+
+<- [Return to Table of Contents](https://github.com/nour-d/manual-testing-practice/blob/main/notes/start-here.md)
