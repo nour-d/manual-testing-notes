@@ -10,7 +10,7 @@ First, let's plan what we will test:
 
 *Unit and Integration Testing*
 1. Check that all text fields accept input.
-2. Check that the password field obstructs hides the values of the characters.
+2. Check that the password field hides the values of the characters.
 3. Check that the *Password confirmation* field hides the values of the characters.
 4. Hover over the Sign Up button to confirm that it changes colors.
 5. Click on the Sign Up button to confirm form submission.
